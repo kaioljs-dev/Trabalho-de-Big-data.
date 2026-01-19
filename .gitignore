@@ -1,0 +1,19 @@
+# Configurações do PyCharm (não devem ir para o GitHub)
+.idea/
+
+# Ambiente Virtual (onde as bibliotecas estão instaladas)
+venv/
+env/
+
+# Ficheiros temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db
+
+# Se o teu CSV for muito grande ou privado, podes ignorá-lo também:
+# trends_data.csv
